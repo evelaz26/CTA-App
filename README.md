@@ -5,4 +5,4 @@ This data-driven application uses N-tier Design where:
 *  **DataAccessTier.cs** acts as the interface between business tier and data storage
 *  **Form1.cs** represents the UI
 
-The database file **CTA.mdf** can be found in bin>Debug folder alongside with its associated log file **CTA_log.ldf**. The application accesses this database by typing **|DataDirectory|\CTA.mdf** as the filepath.
+The database file **CTA.mdf** can be found in bin>Debug folder alongside its associated log file **CTA_log.ldf**. The application accesses this database by typing **|DataDirectory|\CTA.mdf** as the filepath.
